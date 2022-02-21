@@ -9,14 +9,13 @@
 
 
 **Link to work:** No Links for Today.
-<!-- 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 1: Februrary 21, Monday
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: I have learned about custom hooks by watching a youtube tutorial and made a gif_app also.In addition, learned basics of framer-motion(youtube tutorial).
+
+**Thoughts** It's pretty awesome to work with animations, also custom hooks are really powerful to know I would say. Feeling accomplished😋. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
- -->
+1. [gif_app](https://github.com/Suryakaran1234/gif_app)
+
