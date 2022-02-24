@@ -23,5 +23,12 @@
 
 **Thoughts**: I am feeling guilty that I didn't code on my own today, but atleast I did start working on portfolio. So, I am happy about it.
 
-**Link(s) to work**
-1. [portfolio_website_youtube](https://github.com/Suryakaran1234/portfolio_website_youtube)
+**Link(s) to work** [portfolio_website_youtube](https://github.com/Suryakaran1234/portfolio_website_youtube)
+
+### Day 3: Februrary 24, Monday
+
+**Today's Progress**: Today I learned about Formik and Yup which are 3rd Party packages for react forms. 
+
+**Thoughts**: Feeling confident in React now😋.
+
+**Link(s) to work** : [formik_and_yup_react](https://github.com/Suryakaran1234/formik_and_yup_react)
