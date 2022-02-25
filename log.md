@@ -17,7 +17,7 @@
 
 **Link(s) to work** : [gif_app](https://github.com/Suryakaran1234/gif_app)
                
-### Day 2: Februrary 22, Monday
+### Day 2: Februrary 22, Tuesday
 
 **Today's Progress**: Working a project at work(feeling guilty writing this, I know I have code for 1 hour apart from work😥). In addition, started to practice HTML and CSS by making a portfolio website through youtube(HTML is Done).
 
@@ -25,10 +25,18 @@
 
 **Link(s) to work** [portfolio_website_youtube](https://github.com/Suryakaran1234/portfolio_website_youtube)
 
-### Day 3: Februrary 24, Monday
+### Day 3: Februrary 24, Thrusday
 
 **Today's Progress**: Today I learned about Formik and Yup which are 3rd Party packages for react forms. 
 
 **Thoughts**: Feeling confident in React now😋.
 
 **Link(s) to work** : [formik_and_yup_react](https://github.com/Suryakaran1234/formik_and_yup_react)
+
+### Day 4: Februrary 25, Friday
+
+**Today's Progress**: From today onwards, I have started this course [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/?src=sac&kw=100+days+of) and completed Day 1 successfully. My target is to strong my basics.
+
+**Thoughts**: Feeling proud that I have finally started this course, It's been in my list for quite a while now. 
+
+**Link(s) to work** : No links for today😢
